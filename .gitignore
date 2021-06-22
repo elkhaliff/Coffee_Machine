@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/For loop and ranges/Check the order/out/
+/Topics/For loop and ranges/Check the order/out/production/classes/
+/Topics/Standard input/Printing each word in a new line/out/
+/Topics/Standard input/Printing each word in a new line/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
